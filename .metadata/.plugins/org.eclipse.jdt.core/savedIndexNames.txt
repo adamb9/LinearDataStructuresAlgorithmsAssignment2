@@ -1,0 +1,7 @@
+INDEX VERSION 1.131+D:\2019-2020\Linear Data Structures\Assignment2\.metadata\.plugins\org.eclipse.jdt.core
+997502777.index
+1023358580.index
+3539031896.index
+3117448423.index
+2784389070.index
+113558702.index
